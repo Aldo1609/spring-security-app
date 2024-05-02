@@ -23,7 +23,7 @@ There is a 3 endpoints:
 
 📏 Springboot 3.0
 
-📏 OpenSSH
+📏 OpenSSL
 
 
 
